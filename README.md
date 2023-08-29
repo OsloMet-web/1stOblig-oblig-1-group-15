@@ -20,5 +20,6 @@
 # Hvordan slå sammen endringer fra forskjellige branches
 1. gå til github repo i github.com
 2. trykk på "n branches" under tittel til repo
-3. trykk på "create pull request" på den branchen man ønsker å merge inn i main
-4. 
+3. trykk på "new pull request" på den branchen man ønsker å merge inn i main
+4. trykk på "create pull request"
+5. trykk på "merge pull request"
