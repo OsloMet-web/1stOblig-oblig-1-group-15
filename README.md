@@ -3,7 +3,7 @@
 
 
 # hvordan opprette branch
-1. checkout main 
+1. git checkout main 
 2. git pull
 3. git branch "BRANCH NAVN"
 4. git checkout "BRANCH NAVN"
