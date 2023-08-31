@@ -3,7 +3,7 @@
 
 
 # hvordan opprette branch
-1. checkout main 
+1. git checkout main 
 2. git pull
 3. git branch "BRANCH NAVN"
 4. git checkout "BRANCH NAVN"
@@ -23,3 +23,16 @@
 3. trykk på "new pull request" på den branchen man ønsker å merge inn i main
 4. trykk på "create pull request"
 5. trykk på "merge pull request"
+
+# Hvordan gå inn og ut av mapper
+## hvordan gå inn i en mappe
+- cd *mappenavn*
+
+## Hvordan gå ut av en mappe
+- cd ..
+
+## sjekke hva som er i mappen på mac/linux
+- ls
+
+## sjekke hva som er i mappen på windows
+- dir
